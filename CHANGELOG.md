@@ -4,6 +4,12 @@ All notable changes to `phil/search-loupe` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.2-alpha - 2026-11-24
+
+### Changed
+
+- Requires the latest minor of each dependency (`phil/search-bundle` 0.2).
+
 ## 0.1.1-alpha - 2026-11-20
 
 It installs with `phil/search-bundle` 0.2 as well as 0.1. A patch version and not
